@@ -1,4 +1,4 @@
-# pbo1-responsi2
-Responsi 2 - Pemrograman Berbasis Objek 1
+# RESPONSI 2 - Pemrograman Berbasis Objek 1
+Program yang dibuat adalah pengelolaan toko buku
 
 MANTAP 🛠🛠⚒
